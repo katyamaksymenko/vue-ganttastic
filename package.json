@@ -1,10 +1,11 @@
 {
   "name": "vue-ganttastic",
-  "version": "0.9.5",
+  "version": "0.0.1",
   "description": "A simple and customizable Gantt chart component for Vue.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/katyamaksymenko/vue-ganttastic"
+    "url": "ssh://git@github.com/katyamaksymenko/vue-ganttastic",
+    "directory": "packages/name"
   },
   "main": "./dist/index.js",
   "scripts": {
@@ -23,7 +24,7 @@
     "vuejs",
     "ganttastic"
   ],
-  "author": "Marko Zunic",
+  "author": "Katya Maksymenko",
   "license": "MIT",
   "devDependencies": {
     "bili": "^4.8.1",
